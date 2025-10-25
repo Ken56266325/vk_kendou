@@ -35,7 +35,7 @@ Chaque script utilisant VK Kendou DOIT contenir ce code d'accès :
 
 ```python
 # CODE D'ACCÈS OBLIGATOIRE - NE JAMAIS SUPPRIMER
-access_code = "MampifalyfelicienKennyNestinFoad56266325$17Mars2004FeliciteGemmellineNestine"
+access_code =
 
 import vk_kendou
 
@@ -274,7 +274,7 @@ else:
 
 ```python
 # CODE D'ACCÈS OBLIGATOIRE
-access_code = "MampifalyfelicienKennyNestinFoad56266325$17Mars2004FeliciteGemmellineNestine"
+access_code = 
 
 import vk_kendou
 
@@ -300,7 +300,7 @@ client.follow("https://vk.com/public123456")
 
 ```python
 # CODE D'ACCÈS
-access_code = "MampifalyfelicienKennyNestinFoad56266325$17Mars2004FeliciteGemmellineNestine"
+access_code = 
 
 import vk_kendou
 import time
@@ -372,7 +372,7 @@ print("\n🎉 Bot terminé!")
 
 ```python
 # CODE D'ACCÈS
-access_code = "MampifalyfelicienKennyNestinFoad56266325$17Mars2004FeliciteGemmellineNestine"
+access_code =
 
 import vk_kendou
 
