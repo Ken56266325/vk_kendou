@@ -1,0 +1,13 @@
+# requirements.txt
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+urllib3>=1.26.0
+
+# MANIFEST.in
+include requirements.txt
+include README.md
+recursive-include vk_kendou *.py
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude *.so
+global-exclude .DS_Store
